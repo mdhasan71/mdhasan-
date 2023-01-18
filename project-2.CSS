@@ -1,7 +1,7 @@
 body{
     font-family: 'Beau Rivage', cursive;
     font-size: 20px ; 
-    background-color: black ;
+    background-color: black;
     }
 .flexible-container {
     display: flex;
